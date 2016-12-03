@@ -10,8 +10,9 @@ MEDIA QUERY
     }
     
     body {
+        background:black;
     background-image: url(/gh/img/base.jpg) !important;
-    background:black;
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,8 +61,9 @@ COMMON
 */
 
 body{
-    background-image: url(/gh/img/common.jpg);
     background:black;
+    background-image: url(/gh/img/common.jpg);
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
