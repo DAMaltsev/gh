@@ -10,6 +10,7 @@ MEDIA QUERY
     }
     
     body {
+        background:black;
     background-image: url(/gh/img/base.jpg) !important;
     background-position: center;
     background-repeat: no-repeat;
@@ -80,6 +81,7 @@ h4 {
 }
 
 body{
+    background:black;
      background-image: url(/gh/img/base.jpg);
     background-position: center;
     background-repeat: no-repeat;
